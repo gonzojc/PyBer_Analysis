@@ -12,7 +12,7 @@ The datasets were merged and varying libraries were used to manipulate, clean, a
  * The average fare per ride and fare per driver is less for ubran cities when compared to rural cities.
  * The total fares is significantly higher in urban cities than in rural cities and slightly more in suburban cities.
 
-![This is an image](https://github.com/gonzojc/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![This is an image](https://github.com/gonzojc/PyBer_Analysis/blob/main/analysis/Pyber_summary.png)
 
 ![This is an image](https://github.com/gonzojc/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
