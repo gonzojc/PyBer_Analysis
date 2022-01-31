@@ -14,6 +14,6 @@ The datasets were merged and varying libraries were used to manipulate, clean, a
 
 ![This is an image](https://github.com/gonzojc/PyBer_Analysis/blob/main/analysis/Pyber_summary.png)
 
-![This is an image](https://github.com/gonzojc/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+![This is an image](https://github.com/gonzojc/PyBer_Analysis/blob/main/analysis/Pyber_fare_summary.png)
 
 ### Summary
